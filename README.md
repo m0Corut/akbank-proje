@@ -48,6 +48,7 @@ Geçmişte “kara-kaya”, “bina”, “orman” gibi görselleri ayırt etme
 
 <img width="536" height="393" alt="download" src="https://github.com/user-attachments/assets/00acd298-cc07-4b8d-bd3c-71e0dd060895" />
 
+<img width="536" height="393" alt="download" src="https://github.com/user-attachments/assets/59954397-df85-45bd-b480-8e741605746d" />
 
 
 
