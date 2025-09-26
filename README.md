@@ -1,3 +1,5 @@
+kaggle linki: https://www.kaggle.com/code/muhammetcorut/akbank-cnn
+
 Sınıflandırma Projesi
 
 > Görsellerden sınıflandırma yapan, açıklanabilir yapay zeka destekli bir model.
